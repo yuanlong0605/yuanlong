@@ -8,7 +8,7 @@ spring:
     username: root
 
 server:
-    port: 8882
+    port: 8880
 
 eureka:
   instance:
